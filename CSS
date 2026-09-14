@@ -1,1 +1,65 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Student Internship Portal</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>🎓 Student Internship Portal</h1>
+    <p>Find the right internship and start your career</p>
+</header>
+
+<div class="container">
+
+    <div class="search-box">
+        <input type="text" placeholder="🔍 Search internships...">
+    </div>
+
+    <h2>Available Internships</h2>
+
+    <br>
+
+    <div class="internships">
+
+        <div class="card">
+            <h3>Web Development Intern</h3>
+            <p>🏢 Tech Solutions</p>
+            <p>📍 Remote</p>
+            <p>💼 Full Time</p>
+            <a href="#" class="apply-btn">Apply Now</a>
+        </div>
+
+        <div class="card">
+            <h3>Python Developer Intern</h3>
+            <p>🏢 Digital Works</p>
+            <p>📍 Hyderabad</p>
+            <p>💼 Full Time</p>
+            <a href="#" class="apply-btn">Apply Now</a>
+        </div>
+
+        <div class="card">
+            <h3>Data Science Intern</h3>
+            <p>🏢 DataTech</p>
+            <p>📍 Bangalore</p>
+            <p>💼 Hybrid</p>
+            <a href="#" class="apply-btn">Apply Now</a>
+        </div>
+
+    </div>
+
+</div>
+
+<footer>
+    <p>© 2026 Student Internship Portal</p>
+</footer>
+
+</body>
+</html>
